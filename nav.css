@@ -1,0 +1,51 @@
+body{
+    background-image: url('https://wallpaperbat.com/img/513920-shadow-wallpaper-shadowpc.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-attachment: fixed;
+}
+
+
+h1 ul{
+    display: flex;
+    justify-content: center;
+}
+
+.serv ul li{
+    color: white;
+    font-size: 35px;
+    text-align: justify;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.broker{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.contact{
+    text-align: center;
+    color: white;
+    font-size: 38px;
+}
+
+.services{
+    text-align: left;
+    color: rgb(254, 253, 251);
+    font-size: 50px;
+}
+u{
+    color: white;
+}
+
+.mob{
+    text-align: center;
+    color: white;
+    font-size: 38px;
+}
