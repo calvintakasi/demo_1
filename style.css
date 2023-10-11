@@ -1,0 +1,135 @@
+body {
+    /* Set background image and style */
+    background-image: url('https://wallpaperbat.com/img/513920-shadow-wallpaper-shadowpc.jpg'); /* Replace with the actual path to your background image */
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-attachment: fixed;
+  }
+
+  /* Transparent navigation bar */
+  nav {
+    background-color: rgba(0, 0, 0, 0.2); /* Adjust the alpha value to change transparency */
+    padding: 15px;
+    text-align: center;
+  }
+
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    margin: 0 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  /* Bold name style */
+  .name {
+    text-align: center;
+    margin-top: 150px; /* Adjust the margin-top to position the name as needed */
+  }
+
+  .name h1 {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+  }
+  .name h1 {
+    color: white;
+    font-size: 100px; /* Adjust the font size as needed */
+    font-weight: bold;
+  }
+
+  .description h3 {
+      text-align: left;
+      color: rgba(252, 173, 173, 0.989);
+ 
+  }
+
+  nav a:hover{
+      background-color: rgb(249, 40, 8);
+  }
+
+  .dead h2{
+    text-align: center;
+    color: rgb(218, 19, 19);
+    animation-duration: 2s;
+  }
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+ 
+  .footerContainer {
+    width: 100%;
+    padding: 50px 30px 20px;
+  }
+  .socialIcons{
+    display: flex;
+    justify-content: center;
+  }
+
+  .socialIcons a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 50%;
+  }
+  .socialIcons a{
+    font-size: 2em;
+    color: black;
+    opacity: 0.9;
+
+  }
+
+  .socialIcons a:hover{
+    background-color: #111;
+    transition: 0.5s;
+  }
+
+  .socialIcons a:hover i{
+    color: white;
+    transition: 0.5s;
+  }
+
+  .footerNav{
+    margin: 30px 0;
+  }
+
+  .footerNav ul{
+    display: flex;
+    justify-content: center;
+  }
+
+  .footerNav ul li a{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 1.3em;
+    opacity: 0.7;
+    transition: 0.5s;
+    text-align: center;
+
+  }
+
+  .footerNav ul li a:hover{
+    opacity: 1;
+  }
+  .footerBottom {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    opacity: 0.6;
+  }
+
+
+
+  
+
+
+
