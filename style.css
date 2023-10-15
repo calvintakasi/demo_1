@@ -121,6 +121,7 @@ body {
     opacity: 1;
   }
   .footerBottom {
+    color: rgb(150, 150, 150);
     background-color: black;
     padding: 20px;
     text-align: center;
